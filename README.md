@@ -20,6 +20,12 @@ A hipótese central é testada por meio de análise de séries temporais, modela
 📁 pucrs/
 ├── 📄 README.md
 ├── 📄 project.ipynb
+├── 📄 bi.pbix
+├── 📁 dashboards/
+│   ├── Mercado de Trabalho.png
+│   ├── Setor de IA (AIQ).png
+│   ├── Tendência & Correlação.png
+│   └── Stanford AI Index.png
 ├── 📁 data/
 │   ├── 📁 fred/
 │   │   └── fred_raw.csv
