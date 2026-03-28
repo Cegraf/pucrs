@@ -13,6 +13,40 @@ Este projeto investiga se o avanço das ferramentas de Inteligência Artificial,
 
 A hipótese central é testada por meio de análise de séries temporais, modelagem preditiva e correlação estatística entre o índice de vagas de software (FRED) e o desempenho do setor de IA (ETF AIQ).
 
+---
+
+## Estrutura do Repositório
+```
+📁 pucrs/
+├── 📄 README.md
+├── 📄 project.ipynb
+├── 📁 data/
+│   ├── 📁 fred/
+│   │   └── fred_raw.csv
+│   ├── 📁 market/
+│   │   └── aiq_raw.csv
+│   ├── 📁 google_trends/
+│   │   ├── trend_ai_coding_raw.csv
+│   │   └── trend_developer_demand_raw.csv
+│   └── 📁 stanford/
+│       ├── stanford_ai_job_posting_raw.csv
+│       ├── stanford_productivity_raw.csv
+│       ├── stanford_employee_change_raw.csv
+│       └── stanford_reskilled_raw.csv
+└── 📁 output/
+    ├── fred_clean.csv
+    ├── fred_trend.csv
+    ├── fred_forecast.csv
+    ├── aiq_clean.csv
+    ├── trend_ai_coding.csv
+    ├── trend_developer_demand.csv
+    ├── stanford_ai_job_posting.csv
+    ├── stanford_productivity.csv
+    ├── stanford_employee_change.csv
+    └── stanford_reskilled.csv
+```
+
+---
 
 ## Fontes de Dados
 
