@@ -101,7 +101,7 @@ pip install pandas numpy scikit-learn matplotlib yfinance scipy
 ## Dashboard
 
 Acesso ao dashboard interativo publicado no Power BI:  
-🔗 *[link]*
+🔗 *[[Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWYzZTZjZGEtOWRkOS00NDg0LTkxZTctZjU3ZGUyMDAwZWE4IiwidCI6ImIzNDdhZDgxLTFlOTEtNDQzYS05MWRmLTUyNzliNTY5YzJhNSJ9&pageName=687c05160e6989bb8995)]*
 
 ---
 
